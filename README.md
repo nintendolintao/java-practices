@@ -1,2 +1,2 @@
 # java-practices
-A series of practices from Java technical points
+A series of practices for Java technical points
